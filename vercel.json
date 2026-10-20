@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/voyages/", "permanent": false },
+    { "source": "/voyages", "destination": "/voyages/", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex" }
+      ]
+    }
+  ]
+}
