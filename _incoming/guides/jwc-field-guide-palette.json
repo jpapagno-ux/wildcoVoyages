@@ -23,16 +23,16 @@
    "hex": "#4A5A32"
   },
   "copper": {
-   "name": "Lichen ochre",
-   "hex": "#7A5A28"
+   "name": "Opuntia ochre",
+   "hex": "#76692A"
   },
   "brass": {
    "name": "Brass",
-   "hex": "#8F7A3C"
+   "hex": "#8C8240"
   },
   "blood": {
-   "name": "Lava brown",
-   "hex": "#5A3B24"
+   "name": "Kelp green",
+   "hex": "#3E5E4E"
   },
   "aqua": {
    "name": "Turquoise shallows",
@@ -54,7 +54,7 @@
  "band": [
   "#1F2422",
   "#4A5A32",
-  "#7A5A28",
+  "#76692A",
   "#2D7F7B",
   "#10313F"
  ],
